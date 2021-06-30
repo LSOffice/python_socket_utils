@@ -1,6 +1,6 @@
 **socket_utils**
 
-Utilities for setting up a server/client with python socket module
+Utilities for setting up a server/client with python socket module. I have no plans to upload this to PYPI unless requested
 
 Receive and Send Server Example:
 ```
